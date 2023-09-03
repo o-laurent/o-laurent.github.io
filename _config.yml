@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Olivier Laurent"
 title_separator          : "-"
 name                     : &name "Olivier Laurent"
-description              : &description "PhD Student @ Université Paris Saclay & ENSTA Paris, working on predictive uncertainties for deep learning models"
+description              : &description "Ph.D. student @ Université Paris Saclay & ENSTA Paris, working on predictive uncertainties for deep learning models"
 url                      : https://o-laurent.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "o-laurent/o-laurent.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Olivier Laurent"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Gif-sur-Yvette"
-  employer         :
+  bio              : "Ph.D. student working on predictive uncertainties for deep learning models"
+  location         : "Gif-sur-Yvette, France"
+  employer         : "Université Paris Saclay & ENSTA Paris"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=fr&user=RW4CQ68AAAAJ"
   email            :
