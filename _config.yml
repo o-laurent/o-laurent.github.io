@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Olivier Laurent"
   avatar           : "profile.png"
-  bio              : "Ph.D. student working on predictive uncertainties for deep learning models"
+  bio              : "Ph.D. Student on Uncertainties for Deep Learning"
   location         : "Gif-sur-Yvette, France"
-  employer         : "Université Paris Saclay & ENSTA Paris"
+  employer         : "Université Paris Saclay\n& ENSTA Paris"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=fr&user=RW4CQ68AAAAJ"
   email            :
